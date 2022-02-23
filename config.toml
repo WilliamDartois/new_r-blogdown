@@ -29,10 +29,10 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
+  orgName = "Labex Cortex"
   orgLocal = "Lyon"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/labexcortex.png"
+  favicon = "/img/LABEX_CORTEX_3.jpg"
   logo = "/img/retour.png"
   mainSections = ["Vignettes", "project", "talk"]
   navallcaps = true
@@ -42,14 +42,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/labexcortex.jpg"
+  sharing_image = "/img/LABEX_CORTEX_3.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "forest"
+  theme = "violet"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/

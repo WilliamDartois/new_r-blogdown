@@ -5,7 +5,7 @@ action_type: text
 description: Here you will be able to see what we do at the platform.
 image_left: false
 images:
-- img/bioinf.jpg
+- img/LABEX_CORTEX_3.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Labex Cortex bioinformatics section's website !
