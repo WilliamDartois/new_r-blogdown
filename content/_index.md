@@ -1,18 +1,29 @@
 ---
-action_label: Read More &rarr;
+action_label: More details about the platform &rarr;
 action_link: /about
 action_type: text
-description: Here you will be able to see what we do at the platform.
+description: 
+  This website is only dedicated to the bioinformatic platform. To see more details about the work of the labex cortex, please click on the above brain icon.
+  
+  
+  We are happy to share with you what we do at the platform. It includes how we manage to analyse Single-cell and Single-nuclei data using R/Python packages (Seurat, SingleR etc.), but also good bioinformatics publications and more. 
+  
+  
+  To collaborate, contact us in the contact section.
+
+  
 image_left: false
 images:
-- img/LABEX_CORTEX_3.jpg
+- img/lbxcrtx.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Labex Cortex bioinformatics section's website !
-text_align_left: true
-title: Welcome
+subtitle: Labex Cortex Bioinformatic platform website !
+text_align_left: false
+title: LABEX CORTEX
 type: home 
 ---
+
+
 
 ** index doesn't contain a body, just front matter above.
 See index.html in the layouts folder **
