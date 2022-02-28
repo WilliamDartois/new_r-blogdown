@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.92.2")
+
+# if exists, opens; if not, creates new
+blogdown::config_Rprofile() 

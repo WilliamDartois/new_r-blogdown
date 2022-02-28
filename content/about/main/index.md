@@ -1,12 +1,26 @@
 ---
 ## Configure page content in wide column
-title: "What is our goal ?" # leave blank to exclude
+title: "Who are we ?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Sequencing technologies are improving days and days, and informatic is became more and more important in sciences research.
+  The Bioinformatic platform has been launched in November 2020 and is currently composed of three members :
+  
+  - Guillaume Marcy (Researsh engineer, platform manager)
+  
+  - Emerich Texeraud (Studies engineer)
+  
+  - William Dartois (M2 Intern)
+  
+subtitle: What is our goal ?
+
+show_outro: true
+outro: We want to thanks the labex cortex for...
+---
+
+  Sequencing technologies are improving days and days, and bioinformatic is becoming more and more important in sciences research.
   
   Therefore, this section has been launched in order to address needs of the LabEx CORTEX teams and propose various expertise to support singe-cell RNA sequencing (scRNA-seq) projects :
 
@@ -18,10 +32,3 @@ intro: |
   
   - Develop, maintain and share protocols and bioinformatics pipelines (data bases).
   
-  
-show_outro: true
-outro: We want to thanks blablabla...
----
-
-** index doesn't contain a body, just front matter above.
-See about/list.html in the layouts folder **

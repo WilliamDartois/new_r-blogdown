@@ -17,12 +17,12 @@ images:
 - img/lbxcrtx.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Labex Cortex Bioinformatic platform website !
+subtitle: Bioinformatic platform website ! 
 text_align_left: false
 title: LABEX CORTEX
 type: home 
 ---
-
+ 
 
 
 ** index doesn't contain a body, just front matter above.
