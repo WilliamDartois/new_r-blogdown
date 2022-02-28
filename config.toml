@@ -62,21 +62,21 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Metropolis"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = ""
+  customheadingFontFamily = "Padauk" 
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  textFontFamily = "sans-serif" 
+  headingFontFamily = "" 
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = true  
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
-    label = "comments :crystal_ball:"
-
+    label = "comments :crystal_ball:" 
+    
   # Configuration of math rendering
   [params.math]
     renderer = "katex" # one of "mathjax" / "katex" 
@@ -105,13 +105,13 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About us"
-    title = "About the platform"
+    name = "About"
+    title = "More details about the platform"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Vignettes"
-    title = "See analysis vignettes"
+    name = "Posts"
+    title = "Rmarkdown vignettes, posts, articles..."
     url = "/blog/"
     weight = 2
   [[menu.header]]

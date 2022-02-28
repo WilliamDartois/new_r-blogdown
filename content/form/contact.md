@@ -1,8 +1,8 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Do not hesitate to contact us for blablabla
+description: This contact form has been made to contact us for a collaboration. If you want to deal directly with the labex cortex, please go on their website by clicking on the below brain icon.
 draft: false
-formspree_form_id: https://formspree.io/f/mdobgbrw
+formspree_form_id: william.dartois7@gmail.com
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true

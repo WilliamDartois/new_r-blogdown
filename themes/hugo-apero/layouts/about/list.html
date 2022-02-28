@@ -8,8 +8,8 @@
     {{ $header := printf "/%s/%s" .Section "header/index.md" }}
     {{ with site.GetPage $header }}
       <header class="page-header bb b--black-10 bw1 pb4 mb5 {{ if .Params.text_align_right }}tr{{ end }}">
-      {{ if .Params.show_title_as_headline }}<h1 class="f2 f1-m f-headline-l fw5-ns mv4 lh-solid tracked-tight-ns db">{{ $page.Title | markdownify }}</h1>
-      {{ else }}<h1 class="f2 f1-m f-headline-l fw5-ns mv4 lh-solid tracked-tight-ns db">{{ .Params.headline | markdownify }}</h1>{{ end }}
+      {{ if .Params.show_title_as_headline }}<h2 class="about-main f2 fw7 tl">{{ $page.Title | markdownify }}</h2>
+      {{ else }}<h2 class="about-main f2 fw7 tl">{{ .Params.headline | markdownify }}</h2>{{ end }}
       {{ with .Content}}
         <div class="pt2 f4 measure-wide lh-copy dib">{{ . | markdownify }}</div>
       {{ end }}
