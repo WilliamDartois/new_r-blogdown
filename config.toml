@@ -29,10 +29,10 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Labex Cortex"
-  orgLocal = "Lyon"
+  orgName = "Bioinformatic platform of the labex cortex"
+  orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/LABEX_CORTEX_3.jpg"
+  favicon = "/img/lbxcrtx.jpg"
   logo = "/img/home.png"
   mainSections = ["Vignettes", "project", "talk"]
   navallcaps = true
@@ -110,27 +110,27 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
+    name = "News"
+    title = "News"
+    url = "/talk/"
+    weight = 2
+  [[menu.header]]
     name = "Posts"
     title = "Rmarkdown vignettes, posts, articles..."
     url = "/blog/"
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects of the platform"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 4
+    name = "Contact"
+    title = "Contact us for a collaboration"
+    url = "/contact/"
+    weight = 5
     
   # Configure footer  
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 1
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"

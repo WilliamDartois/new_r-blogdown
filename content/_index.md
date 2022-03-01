@@ -17,9 +17,9 @@ images:
 - img/lbxcrtx.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Bioinformatic platform website ! 
+subtitle: LABEX CORTEX
 text_align_left: false
-title: LABEX CORTEX
+title: BIOINFORMATIC PLATFORM
 type: home 
 ---
  

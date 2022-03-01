@@ -2,8 +2,7 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: |
-  Hello, we're happy to see you here !
+headline: More details about the platform
 ---
 
 <!-- this is a subheadline -->

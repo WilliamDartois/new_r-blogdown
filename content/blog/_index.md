@@ -26,7 +26,7 @@ sidebar:
   
   Enjoy !"
   show_sidebar_adunit: false
-  text_link_label: 
+  text_link_label:  
   text_link_url: 
   title: What you will find here ?
 thumbnail_left: true

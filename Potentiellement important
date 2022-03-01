@@ -1,0 +1,1 @@
+<h1 class="f1 lh-solid measure-narrow mb3 fw42">{{ .Title }}</h1> dans _default/single.html

@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This contact form has been made to contact us for a collaboration. If you want to deal directly with the labex cortex, please go on their website by clicking on the below brain icon.
+description: This contact form has been made to contact us for a collaboration. For any comments or questions about analyses (or other), please dot it directly in the appropriate forms (down the vignettes).
 draft: false
 formspree_form_id: william.dartois7@gmail.com
 layout: split-right
