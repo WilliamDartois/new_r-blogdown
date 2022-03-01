@@ -1,29 +1,26 @@
 ---
-author: Alison Hill
-categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+author: William Dartois
+date: "2022-01-10"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+excerpt: William is a M2 bioinformatic student. He comes from the university of Rennes 1 and is here for a 6 months internship.
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
-show_post_time: false
-subtitle: Testing
-title: A campfire
+  name: Github
+  url: https://github.com/WilliamDartois
+- icon: linkedin
+  icon_pack: fab
+  name: Linkedin
+  url: https://www.linkedin.com/in/william-dartois-a68617134/
+show_post_time: true
+subtitle: 
+title: A new arrival at the platform
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+William will be an M2 Intern at the bioinformatic platform for 6 months. His mission will consist to analyse and compare 
+Single-cell and Single-nuclei data from hypothalamus and cortex.
+
+He will also analyse the effects of an inflammation on hypothalamus cells (mostly neurons, microglia and astrocytes).
+This inflammation should mimes the causes of narcolepsy.

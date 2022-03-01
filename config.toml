@@ -32,7 +32,7 @@ enableEmoji = true
   orgName = "Bioinformatic platform of the labex cortex"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/lbxcrtx.jpg"
+  favicon = "/img/test_labex.jpg"
   logo = "/img/home.png"
   mainSections = ["Vignettes", "project", "talk"]
   navallcaps = true
@@ -42,7 +42,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/LABEX_CORTEX_3.jpg"
+  sharing_image = "/img/test_labex.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
 
@@ -115,12 +115,12 @@ enableEmoji = true
     url = "/talk/"
     weight = 2
   [[menu.header]]
-    name = "Posts"
+    name = "Vignettes"
     title = "Rmarkdown vignettes, posts, articles..."
     url = "/blog/"
-    weight = 2
+    weight = 2 
   [[menu.header]]
-    name = "Projects"
+    name = "Projects" 
     title = "Projects of the platform"
     url = "/project/"
     weight = 3

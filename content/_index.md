@@ -14,7 +14,7 @@ description:
   
 image_left: false
 images:
-- img/lbxcrtx.jpg
+- img/llb.png
 show_action_link: true
 show_social_links: true
 subtitle: LABEX CORTEX
@@ -22,7 +22,7 @@ text_align_left: false
 title: BIOINFORMATIC PLATFORM
 type: home 
 ---
- 
+  
 
 
 ** index doesn't contain a body, just front matter above.
