@@ -8,11 +8,11 @@ show_intro: true
 intro: |
   The Bioinformatic platform has been launched in November 2020 and is currently composed of three members :
   
-  - Guillaume Marcy (Researsh engineer, platform manager)
+  - Guillaume Marcy (Research engineer, platform manager)
   
-  - Emerich Texeraud (Studies engineer)
+  - Emeric Texeraud (Bioinformatics engineer)
   
-  - William Dartois (M2 Intern)
+  - William Dartois (M2 Bioinformatics intern)
   
 subtitle: What is our goal ?
 
