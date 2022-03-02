@@ -14,12 +14,12 @@ description:
   
 image_left: false
 images:
-- img/llb.png
+- img/bioinfo.png
 show_action_link: true
 show_social_links: true
 subtitle: LABEX CORTEX
 text_align_left: false
-title: BIOINFORMATIC PLATFORM
+title: Bioinformatics platform
 type: home 
 ---
   

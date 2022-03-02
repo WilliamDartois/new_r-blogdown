@@ -10,13 +10,13 @@ Thank you to all the folks who have contributed both technical and creative skil
 
 + [William Dartois](https://github.com/WilliamDartois) : 
 
-° Construct/ designed the website using Rblogdown and the hugo-apero theme.
+° Designed the website using Rblogdown and the hugo-apero theme.
 
 ° Add posts/talks.
  
 + [Guillaume Marcy](https://github.com/GuillaumeMarcy) : 
 
-° Brought help to designed the website.
+° Decided the names of the sections and what we show inside.
 
 ° Add posts/talks.
  

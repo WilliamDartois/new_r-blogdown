@@ -8,7 +8,7 @@ name: Contact Us Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
-title: Contact
+title: CONTACT
 type: form
 url: contact
 ---
