@@ -33,8 +33,8 @@ enableEmoji = true
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/test_labex.jpg"
-  logo = "/img/home.png"
-  mainSections = ["project"]
+  logo = "/img/home.png" 
+  mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories:  # set to zero to exclude
 show_intro: true
 intro: |
-  The Bioinformatics platform has been launched in November 2020 and is currently composed of three members :
+  The Bioinformatics platform is currently composed of three members :
   
   - Guillaume Marcy (Research engineer, platform manager)
   
@@ -20,7 +20,7 @@ show_outro: true
 outro:
 ---
 
-  The bioinformatics platform has been launched to address needs of the LabEx CORTEX teams and proposes various expertise to support singe-cell RNA sequencing (scRNA-seq) projects :
+  The bioinformatics platform has been launched in November 2020 to address needs of the LabEx CORTEX teams and proposes various expertise to support single-cell RNA sequencing (scRNA-seq) projects :
 
   - Advice to set up new scRNA-seq projects (cell preparation, technology choice).
   
