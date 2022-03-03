@@ -2,7 +2,7 @@
 author:
 date: "2022-03-01"
 draft: false
-excerpt: Emeric Texeraud's [SHINY APP](https://labexcx-plateform.univ-lyon1.fr/singleCell_viewer/) 
+excerpt: .[Public database Shiny App](https://labexcx-plateform.univ-lyon1.fr/singleCell_viewer/) 
 layout: single
 subtitle: 
 tags:

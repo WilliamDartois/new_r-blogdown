@@ -34,7 +34,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/test_labex.jpg"
   logo = "/img/home.png"
-  mainSections = ["Vignettes", "project", "talk"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -96,7 +96,7 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "https://labex-cortex.universite-lyon.fr/"
       title = "labex Cortex's website"
-
+ 
 [taxonomies]
   category = "categories"
   series = "series"
@@ -106,7 +106,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "More details about the platform"
+    title = "More details about the activities of the platform"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -130,13 +130,6 @@ enableEmoji = true
     url = "/contact/"
     weight = 5
     
-  # Configure footer  
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 2
-
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]

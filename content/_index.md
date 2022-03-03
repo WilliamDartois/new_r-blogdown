@@ -1,29 +1,16 @@
 ---
-action_label: More details about the platform &rarr;
+action_label: More details about the activities of the platform &rarr;
 action_link: /about
 action_type: text
-description: 
-  This website is only dedicated to the bioinformatic platform. To see more details about the work of the labex cortex, please click on the above brain icon.
-  
-  
-  We are happy to share with you what we do at the platform. It includes how we manage to analyse Single-cell and Single-nuclei data using R/Python packages (Seurat, SingleR etc.), but also good bioinformatics publications and more. 
-  
-  
-  To collaborate, contact us in the contact section.
-
-  
+description: The Bioinformatics Support Platform of the Labex CORTEX  provides consulting and assistance in single-cell RNA sequencing data analysis.
 image_left: false
 images:
-- img/bioinfo.png
+- img/image_site_web.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: LABEX CORTEX
+subtitle: 
 text_align_left: false
 title: Bioinformatics platform
 type: home 
 ---
-  
 
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
